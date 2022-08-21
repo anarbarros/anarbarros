@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarbarros&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
+![Snake animation](https://github.com/anarbarros/anarbarros/blob/output/github-contribution-grid-snake.svg)
